@@ -1,17 +1,32 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Проект "Название проекта"
 
-<div id="badges">
-  <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="JS Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+![Header Image](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
-<img src="https://komarev.com/ghpvc/?username=Wi-l1a&style=flat-square&color=blue" alt=""/>
+## Описание проекта
+
+Здесь краткое описание проекта, его цели и назначение.
+
+## Бейджи
+
+[![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
+[![Sass](https://img.shields.io/badge/Sass-pink?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+
+## Статистика профиля
+
+![Profile Stats](https://komarev.com/ghpvc/?username=Wi-l1a&style=flat-square&color=blue)
+
+## Таблица
+
+| Заголовок 1 | Заголовок 2 |
+|-------------|-------------|
+| Строка 1    | Строка 2    |
+| Строка 3    | Строка 4    |
+
+## Лицензия
+
+Здесь указать выбранную лицензию.
