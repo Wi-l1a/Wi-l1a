@@ -10,7 +10,7 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 
 ## Profile Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wi-l1a&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wi-l1a&show_icons=true&theme=gruvbox)![Header Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo5dmp1NTQ2ZmZjbmphMzI5ZGp2OWY3ZGQ3YmdlODl0aHZtNjVzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4CRg29WJn1mqMlPhYv/giphy.gif)
 
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
