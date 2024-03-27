@@ -11,8 +11,10 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 ## Profile Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wi-l1a&show_icons=true&theme=radical)
-![Header Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1zeno1bXptb3M2bDJ3dnU1eWI1NjBpdGxnanVqZzY3ZHdhdzNjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lr24wONU2paokQfICt/giphy.gif)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wi-l1a&theme=radical)](https://git.io/streak-stats)
+
+![Header Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1zeno1bXptb3M2bDJ3dnU1eWI1NjBpdGxnanVqZzY3ZHdhdzNjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lr24wONU2paokQfICt/giphy.gif)
+
 
 
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
