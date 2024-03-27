@@ -6,7 +6,7 @@
 
 I'm a web and mobile developer, coding for the soul and constantly learning something new.
 
-ru: Я веб и мобильный разработчик, занимаюсь программированием для души и постоянно учусь чему-то новому)
+ru: Я web и мобильный разработчик, занимаюсь программированием для души и постоянно учусь чему-то новому)
 
 ## Badges
 
@@ -28,6 +28,10 @@ ru: Я веб и мобильный разработчик, занимаюсь �
 [![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Canva](https://img.shields.io/badge/Canva-green?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![npm](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Yarn](https://img.shields.io/badge/Yarn-blue?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
 
 ## Profile Stats
@@ -36,8 +40,15 @@ ru: Я веб и мобильный разработчик, занимаюсь �
 
 ## Table
 
-| Заголовок 1 | Заголовок 2 |
-|-------------|-------------|
-| Строка 1    | Строка 2    |
-| Строка 3    | Строка 4    |
+| Навык             | Уровень     |
+|-------------------|-------------|
+| HTML              | Отлично     |
+| CSS               | Отлично     |
+| JavaScript        | Отлично     |
+| React             | Отлично     |
+| Redux             | Хорошо      |
+| TypeScript        | Хорошо      |
+| Photoshop         | Средне      |
+| Figma             | Средне      |
+| Работа с Git      | Отлично     |
 
