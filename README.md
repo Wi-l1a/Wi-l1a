@@ -13,7 +13,7 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wi-l1a&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wi-l1a&theme=radical)](https://git.io/streak-stats)
 
-<div style="width:100%;height:0;padding-bottom:99%;position:relative;"><iframe src="https://giphy.com/embed/lr24wONU2paokQfICt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loop-mograph-rocktopus-lr24wONU2paokQfICt">via GIPHY</a></p>
+
 
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
@@ -28,7 +28,7 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 [![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-green?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/tutorials/essentials/part-2-app-structure)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Material-UI](https://img.shields.io/badge/Material_UI-pink?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
-[![Swipe](https://img.shields.io/badge/Swipe-blue?style=for-the-badge&logo=swipe&logoColor=white)](https://swipemobileapp.com/)
+[![Swiper](https://img.shields.io/badge/Swipe-blue?style=for-the-badge&logo=swipe&logoColor=white)](https://swiperjs.com/)
 [![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Canva](https://img.shields.io/badge/Canva-green?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
