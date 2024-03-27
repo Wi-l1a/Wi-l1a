@@ -8,7 +8,7 @@ I'm a web and mobile developer, coding for the soul and constantly learning some
 
 ru: Я web и мобильный разработчик, занимаюсь программированием для души и постоянно учусь чему-то новому)
 
-## Badges
+## Profile Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wi-l1a&show_icons=true&theme=gruvbox)
 
@@ -35,21 +35,7 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 [![Yarn](https://img.shields.io/badge/Yarn-blue?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
 
-## Profile Stats
-
 ![Profile Stats](https://komarev.com/ghpvc/?username=Wi-l1a&style=flat-square&color=blue)
 
-## Table
 
-| Навык             | Уровень     |
-|-------------------|-------------|
-| HTML              | Отлично     |
-| CSS               | Отлично     |
-| JavaScript        | Отлично     |
-| React             | Отлично     |
-| Redux             | Хорошо      |
-| TypeScript        | Хорошо      |
-| Photoshop         | Средне      |
-| Figma             | Средне      |
-| Работа с Git      | Отлично     |
 
