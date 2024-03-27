@@ -10,6 +10,7 @@ ru: Я веб и мобильный разработчик, занимаюсь �
 
 ## Badges
 
+
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
 [![Sass](https://img.shields.io/badge/Sass-pink?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
@@ -17,17 +18,16 @@ ru: Я веб и мобильный разработчик, занимаюсь �
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-[![Redux Query](https://img.shields.io/badge/Redux_Query-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/tutorials/query)
-[![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/tutorials/essentials/part-2-app-structure)
+[![Redux](https://img.shields.io/badge/Redux-red?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-orange?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+[![Redux Query](https://img.shields.io/badge/Redux_Query-yellow?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/tutorials/query)
+[![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-green?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/tutorials/essentials/part-2-app-structure)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Material-UI](https://img.shields.io/badge/Material_UI-purple?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
-[![Swipe](https://img.shields.io/badge/Swipe-purple?style=for-the-badge&logo=swipe&logoColor=white)](https://swipemobileapp.com/)
+[![Material-UI](https://img.shields.io/badge/Material_UI-pink?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
+[![Swipe](https://img.shields.io/badge/Swipe-blue?style=for-the-badge&logo=swipe&logoColor=white)](https://swipemobileapp.com/)
 [![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Photoshop](https://img.shields.io/badge/Photoshop-purple?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-[![Canva](https://img.shields.io/badge/Canva-purple?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
-
+[![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Canva](https://img.shields.io/badge/Canva-green?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
 
 ## Profile Stats
