@@ -28,7 +28,7 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 [![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-green?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/tutorials/essentials/part-2-app-structure)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Material-UI](https://img.shields.io/badge/Material_UI-pink?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
-[![Swiper](https://img.shields.io/badge/Swipe-blue?style=for-the-badge&logo=swipe&logoColor=white)](https://swiperjs.com/)
+[![Swiper](https://img.shields.io/badge/Swiper-purple?style=for-the-badge&logo=swipe&logoColor=white)](https://swiperjs.com/)
 [![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Canva](https://img.shields.io/badge/Canva-green?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
