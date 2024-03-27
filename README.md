@@ -10,7 +10,7 @@ ru: Я веб и мобильный разработчик, занимаюсь �
 
 ## Badges
 
-[![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
+[![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
 [![Sass](https://img.shields.io/badge/Sass-pink?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
@@ -27,6 +27,7 @@ ru: Я веб и мобильный разработчик, занимаюсь �
 [![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-purple?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Canva](https://img.shields.io/badge/Canva-purple?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+
 
 
 ## Profile Stats
