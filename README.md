@@ -1,6 +1,6 @@
 # Borzenko Ruslan 
 
-![Header Image](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+![Header Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo5dmp1NTQ2ZmZjbmphMzI5ZGp2OWY3ZGQ3YmdlODl0aHZtNjVzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4CRg29WJn1mqMlPhYv/giphy.gif)
 
 ## обо мне 
 
