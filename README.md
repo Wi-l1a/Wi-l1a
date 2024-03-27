@@ -11,7 +11,7 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 ## Profile Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wi-l1a&show_icons=true&theme=gruvbox)
-![Forrest's GitHub stats](<img src="https://camo.githubusercontent.com/Wi-l1a">)
+<img src="https://camo.githubusercontent.com/Wi-l1a">
 
 
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
