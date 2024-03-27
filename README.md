@@ -12,6 +12,7 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wi-l1a&theme=radical)](https://git.io/streak-stats)
 
 ![Header Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQyMGYwZnJ1ZmVwcjc2bmsxZXAycXN5bHRnYXoxNTZtdW1wbWR1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GazCZqvW67VPN5SEd/giphy.gif){: width="100%"}
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQyMGYwZnJ1ZmVwcjc2bmsxZXAycXN5bHRnYXoxNTZtdW1wbWR1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GazCZqvW67VPN5SEd/giphy.gif" style="width: 100%;" />
 
 
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
