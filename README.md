@@ -1,6 +1,6 @@
 # Borzenko Ruslan<br/>Wi-l1a 
 
-![Header Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo5dmp1NTQ2ZmZjbmphMzI5ZGp2OWY3ZGQ3YmdlODl0aHZtNjVzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4CRg29WJn1mqMlPhYv/giphy.gif)
+![Header Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQyMGYwZnJ1ZmVwcjc2bmsxZXAycXN5bHRnYXoxNTZtdW1wbWR1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GazCZqvW67VPN5SEd/giphy.gif)
 
 ## About Me
 
