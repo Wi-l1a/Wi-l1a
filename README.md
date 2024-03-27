@@ -38,6 +38,8 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 
 ![Profile Stats](https://komarev.com/ghpvc/?username=Wi-l1a&style=flat-square&color=blue)
 
+<p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://camo.githubusercontent.com/87ec04954f783f78f3be48d521c57b3916f7a359f959c8c83da44018a3f9e04f/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170682f3f757365726e616d653d4b616972617437372662675f636f6c6f723d31463232324526636f6c6f723d463844383636266c696e653d46383544374626706f696e743d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph/?username=Kairat77&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;"></a></p>
+
 ## Table
 
 | Навык             | Уровень     |
@@ -52,4 +54,3 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 | Figma             | Средне      |
 | Работа с Git      | Отлично     |
 
-<a target="_blank" rel="noopener noreferrer" href="/marse11e/marse11e/blob/main/github-user-contribution.svg"><img alt="github-snake" src="/marse11e/marse11e/raw/main/github-user-contribution.svg" style="max-width: 100%;"></a>
