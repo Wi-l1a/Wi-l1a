@@ -36,7 +36,7 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 [![npm](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/Yarn-blue?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wi-l1a)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wi-l1a&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile Stats](https://komarev.com/ghpvc/?username=Wi-l1a&style=flat-square&color=blue)
 
