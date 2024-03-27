@@ -13,7 +13,7 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wi-l1a&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wi-l1a&theme=radical)](https://git.io/streak-stats)
 
-<iframe src="https://giphy.com/embed/lr24wONU2paokQfICt" width="480" height="476" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-mograph-rocktopus-lr24wONU2paokQfICt">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:99%;position:relative;"><iframe src="https://giphy.com/embed/lr24wONU2paokQfICt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loop-mograph-rocktopus-lr24wONU2paokQfICt">via GIPHY</a></p>
 
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
