@@ -19,6 +19,7 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 [![Sass](https://img.shields.io/badge/Sass-pink?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React Native](https://img.shields.io/badge/React%20Native-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-red?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
