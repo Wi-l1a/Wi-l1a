@@ -8,7 +8,6 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 
 ## Profile Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wi-l1a&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Wi-l1a&theme=radical)](https://git.io/streak-stats)
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQyMGYwZnJ1ZmVwcjc2bmsxZXAycXN5bHRnYXoxNTZtdW1wbWR1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GazCZqvW67VPN5SEd/giphy.gif" width="900" height="400" />
@@ -37,7 +36,6 @@ ru: Я web и мобильный разработчик, занимаюсь пр
 [![npm](https://img.shields.io/badge/npm-purple?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/Yarn-white?style=for-the-badge&logo=yarn&logoColor=black)](https://yarnpkg.com/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wi-l1a&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile Stats](https://komarev.com/ghpvc/?username=Wi-l1a&style=flat-square&color=blue)
 
